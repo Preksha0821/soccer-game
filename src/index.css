@@ -3,3 +3,11 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.btn-style{
+  padding: 10px;
+  background: cadetblue;
+  border-radius: 50%;
+  margin: 10px;
+}
+
